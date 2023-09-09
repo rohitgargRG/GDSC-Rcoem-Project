@@ -68,10 +68,10 @@ header, .nav-bar{
     justify-content: start;
     align-items: center;
     background-color: #A8AAA9;
-    width: 100px;
-    height: 38px;
+    width: 70px;
+    height: 32px;
     border-radius: 55px 55px;
-    margin-right: 150px;
+    margin-right: 100px;
 }
 .nav-toggle img{
     margin-left:4px;
@@ -84,40 +84,40 @@ header, .nav-bar{
 /* adjusting airplane image */
 .air-img{
     width: 100%;
-    height: 120px;
+    height: 100px;
     background-color: #ffffff;
     display: flex;
     justify-content: end;
     align-items: end;
 }
 .air-img img{
-    margin-right: 200px;
+    margin-right: 120px;
 }
 
 
 /* editing big gdsc heading panel */
 
 .gdsc-color{
-    height: 200px;
+    height: 150px;
     width: 100%;
     background-color: #ffffff;
     display: flex;
     flex-direction: column;
 }
 .big-gdsc{
-    height: 130px;
+    height: 150px;
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .big-gdsc p{
-    font-size: 6.5rem;
+    font-size: 5.2rem;
     font-family: 'Open Sans', sans-serif;
     font-weight: 500;
 }
 .rcoem-chap p{
-    font-size: 2.9rem;
+    font-size: 2.5rem;
     font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     color: #666666;
@@ -177,7 +177,7 @@ header, .nav-bar{
     margin-top: 60px;
 }
 .intro-msg p{
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     text-align: center;
     color: #737373;
     font-family: 'Open Sans', sans-serif;
@@ -251,7 +251,7 @@ header, .nav-bar{
     justify-content: center;
 }
 .mission-heading p,.commonPara{
-    font-size: 2.3rem;
+    font-size: 2.0rem;
     font-weight: 700;
     font-family: 'Open Sans', sans-serif;
     color:  #5F5F5F;
@@ -273,7 +273,7 @@ header, .nav-bar{
     justify-content: space-around;
 }
 .content-text p,.commonPara2{
-    font-size: 2rem;
+    font-size: 1.7rem;
     font-family: 'Open Sans', sans-serif;
     color:  #5F5F5F;
     font-weight: 700;
@@ -307,7 +307,7 @@ header, .nav-bar{
 .going-text p{
     height: 380px;
     text-align: right;
-    font-size: 1.8rem;
+    font-size: 1.7rem;
     color:  #5F5F5F;
     font-weight: 800;
     border-right: 12px solid #DB4437;
@@ -382,7 +382,7 @@ main{
     margin-left: 100px;
 }
 .line hr{
-    width: 38rem;
+    width: 25rem;
     height: 0.5rem;
     background-color: #FF6060;
 }
@@ -481,7 +481,7 @@ main{
     margin-top: 150px;
 }
 .FAQs p{
-    font-size: 3rem;
+    font-size: 2.7rem;
     color: #5F5F5F;
     font-family: 'Open Sans', sans-serif;
     font-weight: 800;
@@ -534,7 +534,7 @@ main{
 }
 .q1 p,.ans1 p{
     margin-left: 40px;
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: #5F5F5F;
     font-family: 'Open Sans', sans-serif;
     font-weight: 800;
